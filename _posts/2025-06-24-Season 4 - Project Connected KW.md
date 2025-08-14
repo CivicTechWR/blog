@@ -5,11 +5,11 @@ date: 2025-06-24
 authors:
   - apurvakb
   - foudamo
-image: Screenshot 2025-07-10 at 1.02.31 PM.png
+image: /assets/images/ConnectedKW.png
 ---
-Connected KW is a volunteer-run project with the goal of creating an inclusive and comprehensive resource for families in Waterloo Region. You can get involved by [creating an account](https://cms.connectedkw.com/admin/register) and helping us to add events and info for other families!
+Connected KW is a volunteer-run project with the goal of creating an inclusive and comprehensive resource for families in Waterloo Region. You can get involved by [creating an account](https://cms.connectedkw.com/admin/register) and helping us to add events and info for other families!
 
-![](Screenshot 2025-07-10 at 1.02.31 PM.png)
+![](/assets/images/ConnectedKW.png)
 
 <!-- more -->
 ## What was the Problem?
@@ -27,7 +27,7 @@ Shay:
 ## People Involved 
 The team of volunteers behind ConnectedKW has been absolutely amazing. They come from diverse backgrounds and varying levels of technical expertise, yet everyone has found meaningful ways to contribute. Some have focused on the technical side—developing features, adding to the website, even learning JavaScript, React, or our backend platform as they went. Others have supported outreach efforts, connected with local organizations, conducted user research, helped with testing, and contributed to the website’s copy and content. 
 
-![](IMG_2206.jpeg)
+![](/assets/images/IMG_2206.jpeg)
 
 It’s been incredible to see how each volunteer brings their unique skills and capacity to the project, making it a true collaborative effort.
 
