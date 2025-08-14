@@ -1,17 +1,17 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+name: "CTWR Blog"
+title: "CTWR Blog"
+description: "Welcome to CivicTech Waterloo Region Blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 url: https://civictechwr.github.io
 baseurl: /blog
 google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+disqus: ' '
+mailchimp-list: ' '
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: civictechwr@gmail.com
 
 # Authors
 authors:
@@ -19,16 +19,16 @@ authors:
     name: Sal
     display_name: Sal
     avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
+    email: civictechwr@gmail.com
+    web: https://www.civictechwr.org/donate/
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
   john:
     name: John
     display_name: John    
     avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
+    email: civictechwr@gmail.com
+    web: https://www.civictechwr.org
     twitter: https://twitter.com/wowthemesnet
     description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
 
