@@ -5,11 +5,11 @@ date: 2025-06-24
 authors:
   - foudamo
   - apurvakb
-image: midtown-radio.png
+image: /assets/images/midtown-radio.png
 ---
 MidTown Radio mobile App was created which provides access to their live stream, podcasts, and artist directory in the Waterloo Region. This app gives [MidTown Radio](https://www.midtownradio.ca/) another way to reach audience and showcase art in the community. The [CBC Listen App](https://www.cbc.ca/listen/live-radio) is an example of what they inspired for.  
 
-![](midtown-radio.png)
+![ ](/assets/images/midtown-radio.png)
 
 <!-- more -->
 ## What was the Problem?
@@ -26,7 +26,7 @@ That mismatch, between what’s being created and what’s being heard, became t
 ## People Involved 
 The group behind the project was made up of volunteers, students from Conestoga, Waterloo, and Guelph, along with working professionals from across the region. Some brought technical expertise. Others contributed production experience, design input, or feedback on usability.
 
-![](IMG_2207.jpeg)
+![ ](/assets/images/IMG_2207.jpeg)
 
 - Cole Westerveld [Github account](https://github.com/coleWesterveld) & [Linkedin Account](https://www.linkedin.com/in/cole-westerveld/)
 - Julian Morley [Github account](https://github.com/julianm-lrj) & [Linkedin Account](https://www.linkedin.com/in/julian-morley)
