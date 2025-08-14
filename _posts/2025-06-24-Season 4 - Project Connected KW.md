@@ -5,7 +5,7 @@ date: 2025-06-24
 authors:
   - apurvakb
   - foudamo
-links:
+image: Screenshot 2025-07-10 at 1.02.31 PM.png
 ---
 Connected KW is a volunteer-run project with the goal of creating an inclusive and comprehensive resource for families in Waterloo Region. You can get involved by [creating an account](https://cms.connectedkw.com/admin/register) and helping us to add events and info for other families!
 

@@ -5,7 +5,7 @@ date: 2025-06-24
 authors:
   - foudamo
   - apurvakb
-links:
+image: midtown-radio.png
 ---
 MidTown Radio mobile App was created which provides access to their live stream, podcasts, and artist directory in the Waterloo Region. This app gives [MidTown Radio](https://www.midtownradio.ca/) another way to reach audience and showcase art in the community. The [CBC Listen App](https://www.cbc.ca/listen/live-radio) is an example of what they inspired for.  
 

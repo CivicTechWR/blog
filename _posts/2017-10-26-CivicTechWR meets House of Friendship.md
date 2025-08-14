@@ -4,6 +4,7 @@ draft: false
 date: 2017-10-26
 authors:
     - kristinataylor
+image: https://miro.medium.com/v2/resize:fit:2000/1*tEERyRrkLyWUqG1hmcVnlQ.jpeg
 links:
 - Cross posted from our Medium Account: https://medium.com/civictechwr/civictechwr-meets-house-of-friendship-ade25aad0414
 ---
