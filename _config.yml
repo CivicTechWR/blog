@@ -1,7 +1,7 @@
 # Site
 name: "CivicTech Waterloo Region Blog"
 title: "CivicTech Waterloo Region Blog"
-description: "CivicTech Waterloo Region Blog"
+description: "Join our community of tech enthusiasts and designers working together to solve local challenges in the Waterloo region"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 url: https://civictechwr.github.io
@@ -18,14 +18,14 @@ authors:
   foudamo:
     name: Mohamed Fouda
     display_name: Mohamed Fouda
-    avatar:
+    avatar: 'https://avatars.githubusercontent.com/u/6817956?v=4'
     email: civictechwr@gmail.com
     web: https://github.com/foudamo
     twitter: https://twitter.com/civictechwr
     description: "Product Manager"
   apurvakb:
-    name: Apurv Banastarker
-    display_name: Apurv Banastarker    
+    name: Apurva Banastarker
+    display_name: Apurva Banastarker    
     avatar:
     email: civictechwr@gmail.com
     web: https://github.com/apurvakb

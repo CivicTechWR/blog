@@ -4,12 +4,11 @@ title: Hello, world! (Again) 👋👋
 date: 2024-12-15
 author: foudamo
 comments: false
+image: /assets/images/HelloAgain.png
 ---
 Restarting our blog!
 
 This is our very first post since CTWR restarted last April 2024 — a small but exciting milestone. Whether you're here by accident or on purpose, thanks for stopping by.
-
-<!-- more -->
 
 ### What to Expect
 

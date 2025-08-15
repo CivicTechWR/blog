@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CivicTech Waterloo Region Blog</title>
+    <description>CivicTech Waterloo Region Blog</description>
+    <link>http://localhost:4000/blog/</link>
+    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 15 Aug 2025 17:35:21 -0400</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 17:35:21 -0400</lastBuildDate>
+    <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>Season 4 - Project Midtown Radio</title>
+        <description>&lt;p&gt;MidTown Radio mobile App was created which provides access to their live stream, podcasts, and artist directory in the Waterloo Region. This app gives &lt;a href=&quot;https://www.midtownradio.ca/&quot;&gt;MidTown Radio&lt;/a&gt; another way to reach audience and showcase art in the community. The &lt;a href=&quot;https://www.cbc.ca/listen/live-radio&quot;&gt;CBC Listen App&lt;/a&gt; is an example of what they inspired for.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/midtown-radio.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-was-the-problem&quot;&gt;What was the Problem?&lt;/h2&gt;
+&lt;p&gt;There’s no shortage of music streaming platforms. But finding music created by people in your own region, artists playing live sets just down the road, isn’t something those platforms do well. That gap sparked a small, time-bound project this spring: to design and launch a mobile app that helps listeners discover and access music made by local artists.&lt;/p&gt;
+
+&lt;p&gt;Twelve weeks later, the app is live on &lt;a href=&quot;https://apps.apple.com/ca/app/midtown-radio/id6746517964&quot;&gt;Apple App Store&lt;/a&gt; and &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.civitechwr.midtownradio.app.ctwr_midtown_radio_app&amp;amp;pcampaignid=web_share&quot;&gt;Google Play Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The initial conversation wasn’t about building an app. It was about what was missing. Artists were producing music, but not finding local audiences. Listeners were eager to engage with community music, but had no centralized way to find it.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“There just wasn’t a good place to go to hear locally produced music,” said David Harmes, who led the project. “Commercial radio rarely plays it, and most people don’t know where else to look.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That mismatch, between what’s being created and what’s being heard, became the basis for a simple goal: build a platform that could bridge that gap, starting with version 1.0.&lt;/p&gt;
+
+&lt;h2 id=&quot;people-involved&quot;&gt;People Involved&lt;/h2&gt;
+&lt;p&gt;The group behind the project was made up of volunteers, students from Conestoga, Waterloo, and Guelph, along with working professionals from across the region. Some brought technical expertise. Others contributed production experience, design input, or feedback on usability.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/IMG_2207.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cole Westerveld &lt;a href=&quot;https://github.com/coleWesterveld&quot;&gt;Github account&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.linkedin.com/in/cole-westerveld/&quot;&gt;Linkedin Account&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Julian Morley &lt;a href=&quot;https://github.com/julianm-lrj&quot;&gt;Github account&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.linkedin.com/in/julian-morley&quot;&gt;Linkedin Account&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Justin Chenvanich &lt;a href=&quot;https://github.com/jChenvan&quot;&gt;Github account&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.linkedin.com/in/justin-chenvanich-1675621b3&quot;&gt;Linkedin Account&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Andrew Sullivan Cant &lt;a href=&quot;https://github.com/acant&quot;&gt;Github account&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://linkedin.com/in/andrewsullivancant&quot;&gt;Linkedin Account&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Gabriela Niño Ramirez &lt;a href=&quot;https://github.com/gabynr&quot;&gt;Github account&lt;/a&gt; &amp;amp; &lt;a href=&quot;&quot;&gt;Linkedin Account&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Aditya Mahajan &lt;a href=&quot;https://github.com/aditya-mahajan96&quot;&gt;Github account&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.linkedin.com/in/adityamahajan263/&quot;&gt;Linkedin Account&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;David Harmes &lt;a href=&quot;&quot;&gt;Github account&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.linkedin.com/in/david-harmes-1aa42634/&quot;&gt;Linkedin Account&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;technology-used&quot;&gt;Technology Used&lt;/h2&gt;
+&lt;p&gt;The timeline was tight: twelve weeks, end to end. They broke the work into stages: interface design, content architecture, platform requirements, deployment. Each task was designed to move the group forward toward a public-ready launch.&lt;/p&gt;
+
+&lt;p&gt;One of the biggest hurdles came late in the process, preparing the app for distribution on Apple’s App Store and Google Play.&lt;/p&gt;
+
+&lt;p&gt;“I was surprised by the technical and administrative work required just to get it listed,” said Harmes. “It was more complicated than expected. But the team found a way through.”&lt;/p&gt;
+
+&lt;p&gt;The technologies the team ended up using were
+    - Dart &amp;amp; Flutter (the main coding languages used for developing the app)
+    - Android Studio (for developing the Android app)
+    - XCode (for developing the iOS app)
+    - Visual Studio Code (as an IDE to code)
+    - Git
+    - Android toolchain&lt;/p&gt;
+
+&lt;p&gt;You can checkout the project repo at https://github.com/CivicTechWR/MidtownRadioApp&lt;/p&gt;
+
+&lt;h2 id=&quot;impact-on-civic-community&quot;&gt;Impact on Civic Community&lt;/h2&gt;
+&lt;p&gt;The technical solution wasn’t the full story. What made the build possible was a steady rhythm of collaboration. Weekly planning helped coordinate contributions. The scope stayed realistic. Everyone working on the app, from developers to radio producers, had a role in shaping how it came together.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“I’m proud of the mix of people who were part of this,” Harmes noted. “It wasn’t just about building an app. It was about working together toward something useful, and doing it in a short, focused window.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;All of the collaborators initially connected through CivicTechWR. While some contributors brought deep technical backgrounds, others were newer to software projects. Several described the experience as a learning opportunity, a way to see the full process of app development, from first meeting to public launch.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-next-opportunity-for-sponsors&quot;&gt;What’s Next (Opportunity for Sponsors)&lt;/h2&gt;
+&lt;p&gt;At the spring showcase, version 1.0 of the app was presented as a working product. Visitors were encouraged to test the app, try out its features, and share thoughts on what might come next.&lt;/p&gt;
+
+&lt;p&gt;The team will spend the next few months collecting input, monitoring usage, and making adjustments. The roadmap is open-ended: this version is a starting point, not a final product. Future updates may include new ways for artists to share content, better search and discovery tools, or features informed by what listeners say they need.&lt;/p&gt;
+
+&lt;p&gt;This was a short, focused project with a clear goal: to make it easier for people to access music being created in their own community. As David Harmes put it, “I think it’s going to be a game-changer for the way people access local music, and connect with musicians who perform live in the community.”&lt;/p&gt;
+
+&lt;p&gt;The team, made up of students, professionals, and volunteers loosely organized through CivicTechWR, approached the work with a shared commitment to delivery, not just design. And for many of the non-technical contributors, the project became an opportunity to learn what it takes to build and publish working software, from start to finish.&lt;/p&gt;
+
+&lt;p&gt;The app is live on &lt;a href=&quot;https://apps.apple.com/ca/app/midtown-radio/id6746517964&quot;&gt;Apple App Store&lt;/a&gt; and &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.civitechwr.midtownradio.app.ctwr_midtown_radio_app&amp;amp;pcampaignid=web_share&quot;&gt;Google Play Store&lt;/a&gt;. Feedback is ongoing. The next version will be shaped by what users, both musicians and listeners, say they need.&lt;/p&gt;
+
+&lt;p&gt;What’s been built so far is simple. But it answers a real need, and it’s already beginning to shift how local content is discovered and heard.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Jun 2025 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/blog/Season-4-Project-Midtown-Radio/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Season-4-Project-Midtown-Radio/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Season 4 - Project Connected KW</title>
+        <description>&lt;p&gt;Connected KW is a volunteer-run project with the goal of creating an inclusive and comprehensive resource for families in Waterloo Region. You can get involved by &lt;a href=&quot;https://cms.connectedkw.com/admin/register&quot;&gt;creating an account&lt;/a&gt; and helping us to add events and info for other families!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/ConnectedKW.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-was-the-problem&quot;&gt;What was the Problem?&lt;/h2&gt;
+&lt;p&gt;At the core, it’s about helping people connect with their community in meaningful ways. I think a lot of us—myself included, and others at Civic Tech—want to get involved locally, but it’s not always clear how to start. Some people look to events as a way to engage, while others are interested in volunteering. But in both cases, the path to connection can feel scattered or hard to navigate.&lt;/p&gt;
+
+&lt;p&gt;With the Volunteer Directory, we wanted to complement existing platforms like VolunteerWR, which do a great job posting volunteer opportunities. Our directory flips that model—it highlights the volunteers themselves. People can create profiles outlining their skills, interests, causes they care about, and what they’d like to learn. Then, nonprofits can either request a specific volunteer or talk to us about their needs, and we’ll help match them with someone whose skills align.&lt;/p&gt;
+
+&lt;p&gt;We also recognized that many community organizations are stretched thin. They may have needs or ideas but not the time or resources to define a formal volunteer role. Our directory supports a more collaborative approach—pairing skilled volunteers with organizations to co-create solutions or projects together. It’s less about filling a shift and more about engaging volunteers as partners who bring valuable knowledge and creativity to the table.&lt;/p&gt;
+
+&lt;p&gt;Shay:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;I started ConnectedKW while I was on maternity leave with my youngest daughter. At the time, I was trying to figure out how to stay socially connected and engage with the community—but my availability was mostly weekdays during the day, which made it challenging. I wanted to get out and do things, but I kept finding myself missing events, even though I was following local Instagram accounts and checking different event calendars.
+It felt like there was no single, reliable source for finding out what was happening—especially for family-friendly events—so I decided to solve my own problem. I started building an aggregated events feed that focused on the kinds of things I wanted to attend. It was fun to create and genuinely helped me discover local events.
+After working on it solo for a while, I brought the project to Civic Tech Waterloo Region to see if others might be interested in contributing. I found a great group of volunteers who were eager to help. Together, we identified a new opportunity: creating a volunteer directory to connect people who want to support nonprofits with organizations that need help. So in addition to the events page, we’ve added a local volunteer page—and that’s what the Civic Tech team has been focused on this season.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;people-involved&quot;&gt;People Involved&lt;/h2&gt;
+&lt;p&gt;The team of volunteers behind ConnectedKW has been absolutely amazing. They come from diverse backgrounds and varying levels of technical expertise, yet everyone has found meaningful ways to contribute. Some have focused on the technical side—developing features, adding to the website, even learning JavaScript, React, or our backend platform as they went. Others have supported outreach efforts, connected with local organizations, conducted user research, helped with testing, and contributed to the website’s copy and content.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/IMG_2206.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s been incredible to see how each volunteer brings their unique skills and capacity to the project, making it a true collaborative effort.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Shay Kennedy &lt;a href=&quot;https://github.com/s-kennedy&quot;&gt;Github account&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.linkedin.com/in/shaydreamside/&quot;&gt;Linkedin Account&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Indy Ng &lt;a href=&quot;https://github.com/writingindy&quot;&gt;Github account&lt;/a&gt; &amp;amp; &lt;a href=&quot;&quot;&gt;Linkedin Account&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Thrishma Reddy &lt;a href=&quot;https://github.com/thrishma&quot;&gt;Github account&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.linkedin.com/in/thrishma-reddy&quot;&gt;Linkedin Account&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Nipun Grover &lt;a href=&quot;https://github.com/NipunGrover&quot;&gt;Github account&lt;/a&gt; &amp;amp; &lt;a href=&quot;&quot;&gt;Linkedin Account&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sahir Prajapati &lt;a href=&quot;https://github.com/noiteration&quot;&gt;Github account&lt;/a&gt; &amp;amp; &lt;a href=&quot;&quot;&gt;Linkedin Account&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Karandeep &lt;a href=&quot;https://github.com/Goldbreaker&quot;&gt;Github account&lt;/a&gt; &amp;amp; &lt;a href=&quot;&quot;&gt;Linkedin Account&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Syed S. Albiz &lt;a href=&quot;https://github.com/ssalb1z&quot;&gt;Github account&lt;/a&gt; &amp;amp; &lt;a href=&quot;&quot;&gt;Linkedin Account&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Resham Singh &lt;a href=&quot;https://github.com/dive-up&quot;&gt;Github account&lt;/a&gt; &amp;amp; &lt;a href=&quot;&quot;&gt;Linkedin Account&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ssalbiz &lt;a href=&quot;https://github.com/ssalbiz-relay&quot;&gt;Github account&lt;/a&gt; &amp;amp; &lt;a href=&quot;&quot;&gt;Linkedin Account&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Civic Tech volunteers have brought a wave of new energy, ideas, and motivation to the project—things I never would have come up with on my own. The idea for the volunteer directory, for example, wasn’t mine originally, but it’s become such a valuable addition. That kind of creative input has really expanded the vision of what ConnectedKW could be.&lt;/p&gt;
+
+&lt;p&gt;More than anything, having a team around this project has kept it alive. If I were still doing it on my own, I probably would have given up by now. But seeing other people take an interest, recognize the value, and suggest new directions has made it feel worth continuing. Their involvement has turned it from a personal side project into something collaborative and sustainable.&lt;/p&gt;
+
+&lt;h2 id=&quot;technology-used&quot;&gt;Technology Used&lt;/h2&gt;
+&lt;p&gt;The project has evolved over two seasons at Civic Tech. In the first season, the focus was on creating the initial version of the Volunteer Directory. It was a pretty simple setup—mostly just a page layout with basic search and filter functionality—and it only featured CivicTech volunteers. The team entered all the profiles manually through the backend and used the directory as a kind of internal showcase.&lt;/p&gt;
+
+&lt;p&gt;In the second season, the team shifted their focus toward making the platform more self-serve and accessible to the broader community. Now, anyone can submit a volunteer profile directly through the website, not just Civic Tech members. The team also introduced a request form for organizations, so they can reach out to find volunteers through the site instead of emailing them directly. The idea was to make the whole process more open, easier to use, and scalable beyond our internal network.&lt;/p&gt;
+
+&lt;p&gt;You can see the repo for the full project at: https://github.com/CivicTechWR/connectedkw&lt;/p&gt;
+
+&lt;h2 id=&quot;impact-on-civic-community&quot;&gt;Impact on Civic Community&lt;/h2&gt;
+&lt;p&gt;One thing that always surprises me—in the best way—is the level of enthusiasm some volunteers bring right from day one. It’s incredible to see people show up to their first Civic Tech meeting and immediately dive into the code, eager to contribute. This past season, we had a few volunteers who jumped straight into our existing codebase, spotted a bug or an opportunity for improvement, and just got to work on it. Watching someone take ownership of a project they’ve just joined is always such a treat.&lt;/p&gt;
+
+&lt;p&gt;It’s also fascinating to see the different ideas and directions people bring to the table. For example, one volunteer took on the task of building a tagging system. I was expecting a simple list of tags—but they came back with a full taxonomy, complete with categories and subcategories. They really ran with it and took it far beyond what we had imagined, just based on their own passion and interest.&lt;/p&gt;
+
+&lt;p&gt;Shay:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;I really hope that ConnectedKW helps people in our region feel a greater sense of belonging and connection to the community. I want people to feel like they have options for getting involved—that they can participate in local life in a way that feels meaningful to them.
+Our region is growing quickly, and with that growth comes a lot of new residents who are trying to find their place. My hope is that ConnectedKW can serve as a bridge—whether through discovering events, learning more about what’s happening locally, or getting involved through volunteering. It’s about making it easier for people to feel like they’re part of something.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;whats-next-opportunity-for-sponsors&quot;&gt;What’s Next (Opportunity for Sponsors)&lt;/h2&gt;
+&lt;p&gt;The next step for ConnectedKW is to focus on marketing and outreach—getting the word out to more people in the community about what the platform offers. We’ve spent a lot of time building features and improving the site, but we haven’t yet done a great job of making sure the broader community knows it exists. So moving forward, spreading awareness and encouraging more people and organizations to use the platform will be our main priority.&lt;/p&gt;
+
+&lt;p&gt;Shay:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;I’m especially proud of the level of self-direction and collaboration within our group. While I may have started the project, I’ve realized I’m not essential as a project lead or manager—and that’s a good thing. The volunteers have truly taken ownership of the project. They’ve been able to take the broader vision and break it down into roles and tasks that each person can run with independently.
+What’s been most impressive is how committed people are—not just to showing up, but to following through, even when it means learning new skills or tackling unfamiliar technologies. It’s been amazing to watch our team come together around a shared goal without needing a lot of structure or oversight. That kind of organic coordination is something I’m really proud of.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Tue, 24 Jun 2025 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/blog/Season-4-Project-Connected-KW/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Season-4-Project-Connected-KW/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hello, world! (Again) 👋👋</title>
+        <description>&lt;p&gt;Restarting our blog!&lt;/p&gt;
+
+&lt;p&gt;This is our very first post since CTWR restarted last April 2024 — a small but exciting milestone. Whether you’re here by accident or on purpose, thanks for stopping by.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-to-expect&quot;&gt;What to Expect&lt;/h3&gt;
+
+&lt;p&gt;We will be sharing updates, thoughts, projects, tips, and whatever else seems worth writing about. It might get nerdy, it might get weird, but it’ll always be real.&lt;/p&gt;
+
+&lt;p&gt;If you’ve made it this far, feel free to say hi or give feedback — And as always, we hope to see you on Wednesday. Please note CTWR used to blog on Medium, but we won’t be using that account moving forward.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned here for more posts!&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 15 Dec 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/Hello,-world-(again)/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Hello,-world-(again)/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>CivicTech WR in the news - CBC - Oct 20, 2018</title>
+        <description>&lt;p&gt;The original article on CBC’s website: &lt;a href=&quot;https://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-organizations-voter-information-surveys-1.4870468&quot;&gt;article link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Oct 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/blog/In-the-news-CBC-Oct-20,-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/In-the-news-CBC-Oct-20,-2018/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>CivicTech WR in the news - Waterloo Chronicle - Oct 03, 2018</title>
+        <description>&lt;p&gt;The original article on Waterloo Chronicle’s website: &lt;a href=&quot;https://www.waterloochronicle.ca/opinion/contributors/waterlooregionvotes-org-helps-voters-inform-themselves-before-municipal-election/article_ffb8304b-8c68-5a83-ac9b-29fc47877c48.html?&quot;&gt;article link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Oct 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/blog/In-the-news-Waterloo-Chronicle-Oct-03,-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/In-the-news-Waterloo-Chronicle-Oct-03,-2018/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>CivicTech WR in the news - The Record - Aug 19, 2018</title>
+        <description>&lt;p&gt;The original article on The Record’s website: &lt;a href=&quot;https://www.therecord.com/news-story/8847728-techies-mobilizing-for-this-fall-s-municipal-elections-in-waterloo-region/&quot;&gt;article link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 19 Aug 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/blog/In-the-news-The-Record-Aug-19,-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/In-the-news-The-Record-Aug-19,-2018/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Urban Design &amp; Happiness</title>
+        <description>&lt;h1 id=&quot;urban-design--happiness&quot;&gt;Urban Design &amp;amp; Happiness&lt;/h1&gt;
+
+&lt;p&gt;While I feel like saying this about every guest speaker we’ve hosted, for &lt;a href=&quot;https://medium.com/u/e2a08d065cd3?source=post_page---user_mention--e177132b0a47---------------------------------------&quot;&gt;CivicTech WR&lt;/a&gt;’s February event, we had a special treat. &lt;a href=&quot;https://robinmazumder.com/&quot;&gt;Robin Mazumder&lt;/a&gt;shared his story with us, and I think it’s safe to say that we all learned a lot about how the design of our cities can impact our health and well-being.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h2 id=&quot;challenging-assumptions&quot;&gt;Challenging Assumptions&lt;/h2&gt;
+
+&lt;p&gt;Robin started his career in Occupational Therapy, working with people with various forms of mental &amp;amp; physical disabilities. The “Person-Occupation-Environment” model is a foundational conceptual model and model of practice in OT. It describes how factors related to the individual are only part of what impacts their health. The situation around them (environment) and what that person does (occupation) both also have a substantial impact on well-being.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“OT shifted the my understanding from a disabled person to a disabling environment.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/v2/resize:fit:1400/1*Jy4LrHRyLDnyEA6OpbR6eA.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;sup&gt;
+Robin Mazumder, describing the PEO model for health, well-being, meaning &amp;amp; contribution
+&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Disability is a factor of the environment. A friend of mine moved from Kitchener to Toronto a couple of years ago, and went from relying heavily on other people to help him get to work to being able to roll out his front door, onto the subway, and in to work. That’s not to say that his life in Toronto is easy. Between snowbanks, obstructive people, broken elevators, locked doors, subway maintenance, and able-bodied people rushing the elevators, the environment continues to impact his mobility — just not as much at the design level, and less severely than the design of Kitchener-Waterloo.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Urban designers play a role on the health care team.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As an OT, Robin worked with a 37 year old man named Larry, who lives in a boarding home in a suburban neighbourhood. Larry uses public transit, walks, and cycles to travel within his city. He’s on income assistance, has an intellectual disability, and experiences chronic depression and generalized anxiety disorder. This is what his neighbourhood looks like.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/v2/resize:fit:1400/1*X70V6ADxRXP169Ll6U9psQ.png&quot; alt=&quot;&quot; /&gt;
+&lt;sup&gt;
+“Suburban sprawl area”
+&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Is it any wonder that Larry experienced things like loneliness and isolation that not only are risk factors for depression, but also for coronary heart disease and stroke?&lt;/p&gt;
+
+&lt;p&gt;People often make the assumption that cities attract mentally ill people, but the more work Robin did with people like Larry, the more he came to understand just how much impact environmental stressors could be having on peoples’ mental health and well-being.&lt;/p&gt;
+
+&lt;h2 id=&quot;measuring-oppressiveness&quot;&gt;Measuring Oppressiveness&lt;/h2&gt;
+
+&lt;p&gt;Robin described a few of the ways he’s using technology to do his research on the impact of urban design. The first study he walked us through is one where he had people spend time in a few different virtual reality environments. By measuring their sweat responses, he was able to study how factors like building height and landscaping can have a measurable impact on a person’s stress levels.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/v2/resize:fit:1400/1*FurQFYDmfuh_E09lyZVgzA.png&quot; alt=&quot;&quot; /&gt;
+&lt;sup&gt;
+Would you like spending time here? Which one?
+&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Even with 30 story sky scrapers, urban designers can have a positive impact on the way people experience a city’s hard scape, by adding trees at the street level or using biomorphic design elements in the physical shape of a skyscraper.&lt;/p&gt;
+
+&lt;h2 id=&quot;cities-as-products--a-sense-of-place&quot;&gt;Cities as Products &amp;amp; a Sense of Place&lt;/h2&gt;
+
+&lt;p&gt;Who do we build our cities for? Can an answer to that question be objectively measured? Another study that Robin has conducted as part of his researched compared peoples’ feelings about 3 pairs of spaces in Vancouver — an intersection, a park, and a laneway. He conducted a walking survey, asking people several questions about how they felt about the spaces.&lt;/p&gt;
+
+&lt;p&gt;I’m going to use the parks as an example here — because we often think of parks as being pleasant spaces, no matter what details go into their design. I won’t go into the back story on either of these parks, other than to say that the first was built &amp;amp; is maintained by a corporation, and the second is a community space.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/v2/resize:fit:1400/1*e-2Xi9nMgFnA10IuV5o-jQ.png&quot; alt=&quot;&quot; /&gt;
+&lt;sup&gt;
+Sheraton Plaza
+&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/v2/resize:fit:1400/1*tzj_RvzrwqJeshV2dcPmiA.png&quot; alt=&quot;&quot; /&gt;
+&lt;sup&gt;
+Community Garden
+&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;For me, two of the questions asked really highlighted the difference between how people felt about these parks. In the picture below, the community garden is at the bottom centre, and the Sheraton plaza is up and to the right on Burrard Street.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/v2/resize:fit:1400/1*6xc-Ogup-np_3Y_QXFb4Jw.png&quot; alt=&quot;&quot; /&gt;
+&lt;sup&gt;
+&lt;strong&gt;If I noticed a piece of litter here, I would throw it out in a nearby trash receptacle.&lt;/strong&gt;
+&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;The first question was about peoples’ willingness to care for the space: &lt;em&gt;“If I noticed a piece of litter here, I would throw it out in a nearby trash receptacle”&lt;/em&gt; and the next one was &lt;em&gt;“I would be upset if someone vandalized this place.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Both of these questions relate to our willingness to take care of a public space, and both got similar responses from the people surveyed. I think that these questions really speak to both a sense of ownership and a sense of community. I remember hiking the West Highland Way in Scotland, where parts of the path are 300+ year old cattle droving and old military roads. Every now and then (not very often) we’d find a discarded wrapper from some piece of food, and we’d pick it up, put it in our packs, and empty it at the next town we stopped at. We cared about it — and felt that it was worth keeping clean, even though it isn’t “ours.” I know I wouldn’t do that on a busy sidewalk that is already in a state that is too littered to maintain.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/v2/resize:fit:1400/1*z_Lj7RyhR5fI2Y1pGyd_ig.png&quot; alt=&quot;&quot; /&gt;
+&lt;sup&gt;
+In what ways do city planners empathize with their users?
+&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s a difference between having a park, and loving a park. If we start to think about cities as products, we should start to think about who they’re being designed for. I loved that Robin included this figure of “The Design Cycle” in his talk. I’m a product manager, so maybe this is just me, but it got me wondering how decisions are made in our municipal governments and urban design. In software product development, we have many different techniques for determining priorities. We analyze the tradeoffs between fixing bugs, solving architectural issues, or building new features. It generally comes down to trying to identify a target market segment and figuring out what problems those users (or potential users) have that we’re best positioned to help solve — and how we can solve them most effectively &amp;amp; efficiently. How are these same decisions made in urban design?&lt;/p&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h2&gt;
+
+&lt;p&gt;There’s no denying that our interaction with cities shapes our brains… In what’s known as “the &lt;a href=&quot;https://www.scientificamerican.com/article/london-taxi-memory/&quot;&gt;London cab driver study&lt;/a&gt;,” it was shown that London black cab drivers have a significantly higher development of the posterior hippocampus than your average citizen. This is the part of your brain that is associated with memory, and it turns out, also plays a significant role in spatial navigation. Do Uber drivers have this? How do our brains change when you introduce navigation apps?&lt;/p&gt;
+
+&lt;p&gt;After Robin’s talk, we got to chatting about building up vs out, and talked about how European cities manage to have density without high-rises, and the impact that has on the way people experience their cities. A book recommendation came out of this conversation — “&lt;a href=&quot;https://thehappycity.com/the-book/&quot;&gt;Happy City: Transforming Our Lives Through Urban Design&lt;/a&gt;” by Charles Montgomery. Again, on the topic of happiness, we also discussed the &lt;a href=&quot;http://www.mappiness.org.uk/&quot;&gt;Mappiness project&lt;/a&gt;. This was an app that allowed UK residents to record their feelings in a time and place — with the intention of highlighting places that make people happy. Unfortunately, it looks this project has been replaced with a &lt;a href=&quot;http://www.psyt.co.uk/&quot;&gt;commercial venture&lt;/a&gt; that is targeted more at wellbeing in private spaces — home, school &amp;amp; work. What do you think about using something similar to the Mappiness project to flag great public spaces around us in Waterloo Region? Would you be interested in helping to build a base technology for something like this or help fill it in?&lt;/p&gt;
+
+&lt;p&gt;One of my favourite parts of our CivicTechWR meetups has been the follow-up conversations with like-minded people. During our conversation, one of our regulars recommended &lt;a href=&quot;http://informationdiet.com/&quot;&gt;The Information Diet&lt;/a&gt;, and I think this is going on my reading list. Right after (or maybe before?) Happy City!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;now-what&quot;&gt;…Now what?&lt;/h2&gt;
+
+&lt;p&gt;As I’ve been thinking about the insights that Robin shared with us, over the last couple of weeks, I’ve been wondering if there’s a way to quantify how our region’s being designed. Some things are reflected in the various layers of budgets, of course, but pure allocation of money doesn’t capture things like zoning, parking requirements, connectivity of active transit corridors, etc.&lt;/p&gt;
+
+&lt;p&gt;When you plan out how you’re going to spend your own time or your money, you make conscious decisions about what you value most, and your history of spending reflects your conscious or unconscious choices. If you’d like to help me dig into the data to figure out how to quantify our region’s conscious or unconscious priorities, I’d love to talk with you about the possibilities at our next &lt;a href=&quot;https://www.meetup.com/CivicTechWR/&quot;&gt;CivicTechWR meetup&lt;/a&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Mar 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/Urban-Design-&-Happiness/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Urban-Design-&-Happiness/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>CivicTechWR meets House of Friendship</title>
+        <description>&lt;h1 id=&quot;civictechwr-meets-house-of-friendship&quot;&gt;CivicTechWR meets House of Friendship&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/v2/resize:fit:2000/1*tEERyRrkLyWUqG1hmcVnlQ.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;sup&gt;
+Half-round table introductions with some of the attendees
+&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;John Neufeld, Ron Flaming and other attendees from the House of Friendship facilitated a fantastic and eye-opening conversation at CivicTechWR’s second meetup on a cold, wet and rainy day in October. We really dug into some details about how the tech community can help &lt;a href=&quot;https://www.houseoffriendship.org/&quot;&gt;House of Friendship&lt;/a&gt; serve our community and the citizens who are experiencing homelessness, food insecurity and addiction. Not by connecting with our wallets or our hearts, although it was a very emotional evening, but by putting our heads together to put our skills to good use.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;House of Friendship started in the 1930s, as John states “&lt;em&gt;one of the original start-ups&lt;/em&gt;”, when a group of women took it upon themselves to start serving meals to the “hobos and transients” of downtown Kitchener. That initial service of meals gradually turned into an overnight shelter, then branched out into providing hampers of food for families in need. In the 1970s and 1980s, House of Friendship started offering things like summer camps for women &amp;amp; children and addiction treatment services, and they built on their services for the homeless by creating supportive housing options and spearheading community development initiatives. The House of Friendship also helped kick-start one of Canada’s most innovative food bank systems.&lt;/p&gt;
+
+&lt;h2 id=&quot;food-insecurity-in-waterloo-region&quot;&gt;Food (In)Security in Waterloo Region&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://www.thefoodbank.ca/en/&quot;&gt;Food Bank of Waterloo Region&lt;/a&gt; collects food from all kinds of community initiatives and assembles it all in a giant warehouse. From there the food is distributed through 100 &lt;a href=&quot;http://www.thefoodbank.ca/en/aboutus/member_agencies.asp?_mid_=11322&quot;&gt;different partner organizations&lt;/a&gt; including local shelters, church-based hamper programs, “soup kitchens”, and the House of Friendship. The House of Friendship actually distributes about 60% of the food bank’s food out of their location at 807 Guelph Street. The food bank also supports programs at &lt;a href=&quot;https://www.theworkingcentre.org/st-johns-kitchen/143&quot;&gt;St John’s Kitchen&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.rayofhope.net/need-help/community-support/&quot;&gt;Ray of Hope&lt;/a&gt;. John challenged the audience to experience a life changing meal shared with the many people who visit St John’s. Between these two organizations, people can gather for daily hot meal at lunch and dinner.&lt;/p&gt;
+
+&lt;h2 id=&quot;whos-experiencing-food-insecurity&quot;&gt;Who’s experiencing food insecurity?&lt;/h2&gt;
+
+&lt;p&gt;Thanks to technology, the Food Bank system has recently started being able to better use data to understand the community’s needs. It used to be that each distribution centre kept their own records about who was accessing their services. This meant that we didn’t truly have a good understanding of how frequently the same household was in repeat need of the food bank’s help — regardless of which location or service they used to access help.&lt;/p&gt;
+
+&lt;p&gt;Now, for the first time in decades, when a member of the community shows up at one of the food distribution centres, their name is in a central database, and we’re starting to get a better understanding of usage patterns. It turns out that most families only rely on the Food Bank’s services a couple of times a year, which is exactly what they want to be there for: emergency help. But there are some very small pockets in neighbourhoods within our region where families are turning to the food bank on a weekly basis. This type of analysis is only possible with a connected system across the region. With more data, maybe we could start to get a picture of the root cause of this food insecurity?&lt;/p&gt;
+
+&lt;h2 id=&quot;what-does-community-development-look-like&quot;&gt;What does community development look like?&lt;/h2&gt;
+
+&lt;p&gt;As we mentioned earlier, House of Friendship branched out from its initial service of food to take on community development. Not only do they offer &lt;a href=&quot;https://www.houseoffriendship.org/how-we-help/shelter-and-supportive-housing/&quot;&gt;supportive housing&lt;/a&gt; options, but they also provide &lt;a href=&quot;https://www.houseoffriendship.org/how-we-help/community-centres-and-summer-camp/&quot;&gt;community centre programs&lt;/a&gt; in low-income neighbourhoods. These programs include everything from food distribution to cooking groups to homework help to community gardens.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The tech community can make a real difference by initiating and hosting workshops that teach kids to be producers of technology not just consumers.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As producers, our children will grow up understanding how they can contribute to the evolving society of innovation-rich Waterloo Region. &lt;a href=&quot;https://www.inksmith.co/steam&quot;&gt;InkSmith&lt;/a&gt; set a good example of one way any of us can contribute to this reality. In partnership with House of Friendship, they ran a workshop at a neighbourhood community centre and gave the kids in that community an opportunity to learn how to use a 3D printer to design, print, and assemble a working plastic car.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/v2/resize:fit:1256/1*fp3LD5KL9iZ_4_MYZAlzAA.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;sup&gt;
+3D Printed toy car similar to what InkSmith worked with kids to create during their hosted workshop.
+&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Coding camps, robotics demonstrations and other STEM-focused learning and exposure oriented experiences are other examples of where the tech community has the skills and knowledge and could invest in making a meaningful difference.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-about-central-services-like-the-digital-lab-at-kpl&quot;&gt;What about central services like the digital lab at KPL?&lt;/h2&gt;
+
+&lt;p&gt;John also opened up about some of the excellent services and programs offered at central locations like the &lt;a href=&quot;http://www.kpl.org/&quot;&gt;Kitchener Public Library&lt;/a&gt;. Unfortunately, the reality is, for many families, getting kids to and from a central location for an evening or weekend event is neither easy nor cheap. Services offered right in the local neighbourhood are far more accessible for low-income families. You’re not going to send your daughter on her own across town to the KPL, after school. You might be fine with her walking down the block to the community centre, though. Proximity to the need was a common message throughout the evening.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/v2/resize:fit:1400/1*RdzTXjhZKAWaHe-HeArjMg.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;sup&gt;
+John Neufeld, Executive Director, House of Friendship
+&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-do-you-measure-success-whats-your-goal&quot;&gt;How do you measure success? What’s your goal?&lt;/h2&gt;
+
+&lt;p&gt;Ultimately, House of Friendship has an ambitious goal: end homelessness. Realistically, this means that they want to get to functional zero homelessness. Think of it like a “zero open defects” policy within software development. Realistically, we’re not going to get to a point where there are no people ever experiencing temporary homelessness, just like we’re never going to produce bug-free software. But it means that the goal is to have the rate where people enter the shelter systems to be equal to the goal where they ‘graduate’ to permanent homes.&lt;/p&gt;
+
+&lt;p&gt;Measuring progress toward this goal is currently a gap. Tracking individuals is hard and to some degree, can be an invasion of their privacy. We don’t know what happens to an individual or a family once they’ve made it into a permanent housing situation: do they stay? Do they experience homelessness again? Maybe we can help sift through the data and find a way to measure in aggregate.&lt;/p&gt;
+
+&lt;h2 id=&quot;wheres-the-data-right-now&quot;&gt;Where’s the data, right now?&lt;/h2&gt;
+
+&lt;p&gt;Shelters collect information about people who use their services in a federal system called &lt;a href=&quot;https://www.canada.ca/en/employment-social-development/programs/communities/homelessness/nhis.html&quot;&gt;HIFIS&lt;/a&gt;. Up until now, this has been a local system, collecting information from individual shelters. The newest version of this software is now centralized, and, when ready, will presumably be able to show usage patterns between shelters across the region. Right now any of that cross-referencing is done manually by one shelter calling another: “Have you seen Joe this week?”&lt;/p&gt;
+
+&lt;p&gt;The individuals accessing these shelters and food services are people. They have stories. Those stories are key to understanding their experiences. Those stories are known by the people serving at House of Friendship, Ray of Hope, St John’s Kitchen, the Working Centre, Reception House, and a myriad of the other social services in our region. Those stories aren’t captured in the information systems and the databases and the reporting… but that quantitative data can help us to understand patterns and try to identify root causes. Is there a job here for an anthropologist to somehow make sense out of that combination of qualitative and quantitative data? Is there a job here for some people who can marry data science, information architecture, and user experience, to help us find those patterns? &lt;em&gt;“We need you to tell us what’s possible, here!”&lt;/em&gt; John reiterated. &lt;em&gt;“We don’t know what we don’t know and you people think differently and could maybe help find solutions.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-does-the-future-look-like&quot;&gt;What does the future look like?&lt;/h2&gt;
+
+&lt;p&gt;Many of the clients of the shelter system and community programs have basic cellphones…but they’re currently just consumers of this technology. They don’t feel like they’re a part of the tech community. There’s a lot of “us versus them” when it comes to things like all of the big expensive condo developments, shiny new office buildings, and even things like the LRT.&lt;/p&gt;
+
+&lt;p&gt;A couple of years ago, a local CEO was quoted as saying,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“A problem we have in downtown right now is that there are so many social services. […] That has to be addressed.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Are you kidding me? We’re better than that, right, Waterloo Region?&lt;/p&gt;
+
+&lt;p&gt;As inflammatory as the comment was, it did achieve one good thing: to start the conversation about how the growing tech and innovation community can work together to make an inclusive Waterloo Region where &lt;strong&gt;all citizens&lt;/strong&gt;can live, work, and feel part of the community.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-are-we-going-to-do&quot;&gt;What are we going to do?&lt;/h2&gt;
+
+&lt;p&gt;What if we could set up learning labs in neighbourhoods identified by House of Friendship as having a high concentration of people in need? What if we could stock them up with basic computers (Raspberry Pis?), and maybe some older smartphones? What if we could staff them with some of the awesome developers, makers and other passionate, action-oriented individuals in our region who love mentoring and teaching? What if the kids in these communities didn’t just have access to computers to use them to consume content, but were able to discover just how awesome they could become at making computers and technology DO cool stuff? What if we could get their perspective into the pipeline for technology talent in the future? What could we build, together?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The tech sector has a lot of clout. What are you going to do with that?”&lt;/p&gt;
+
+  &lt;p&gt;— Ron Flaming, Housing Services Director at House of Friendship&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Do you want to help figure it out, together? Join our &lt;a href=&quot;https://www.meetup.com/preview/CivicTechWR&quot;&gt;Meetup group&lt;/a&gt; or follow us on &lt;a href=&quot;https://twitter.com/civictechwr&quot;&gt;Twitter&lt;/a&gt; to be among the first to get the details for our next event.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;You can save the date right now, though: See you on November 14 at the Communitech Data Hub in Uptown Waterloo!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Oct 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/blog/CivicTechWR-meets-House-of-Friendship/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/CivicTechWR-meets-House-of-Friendship/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ontario Digital Service Lab Launch</title>
+        <description>&lt;h1 id=&quot;ontario-digital-service-lab-launch&quot;&gt;Ontario Digital Service Lab Launch&lt;/h1&gt;
+
+&lt;p&gt;The Ontario Digital Service team opened a &lt;a href=&quot;http://news.communitech.ca/news/ontario-government-launches-lab-at-communitech-to-transform-digital-services/&quot;&gt;new user research lab&lt;/a&gt; in the Back Alley at Communitech on August 9. The lab’s mandate is to transform the digital services offered by the Government of Ontario. It might sound lofty and vague but, with the right tools and expertise in place, meaningful change is absolutely achievable.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;The keystone of this new user research lab is the “Empathy Lounge.” This room is designed to look and feel like a living room, because that’s where most people access Ontario’s digital services. You’re sitting at home on the couch, using a laptop, smart phone, or tablet, or maybe you’re at a nearby computer desk, when you’re looking up information about how to sell your car. Or you’re wondering how your 17 year old is going to pay for college. Or you’re thinking about that test your doctor ordered, and wondering what’s going to happen next (and when!).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/v2/resize:fit:10944/1*3kunHbs4Gbol83L-2STo5Q.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;sup&gt;
+&lt;a href=&quot;https://medium.com/u/ff3635c0f3a8?source=post_page---user_mention--f47b948ff908---------------------------------------&quot;&gt;Jonathan Tonge&lt;/a&gt; and &lt;a href=&quot;https://medium.com/u/5745c5311dc2?source=post_page---user_mention--f47b948ff908---------------------------------------&quot;&gt;Kristina Taylor&lt;/a&gt; check out the Toolbox on the wall of the Empathy Lounge. Photo by Sameer Vasta.
+&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;As pictured above, the outside of the Empathy Lounge is essentially a big glass whiteboard, and it’s currently adorned with information about user research and design techniques. The lounge itself has a comfy couch, coffee table, warm lighting — and reasonably unobtrusive video cameras. From video feed, the user research team can remotely observe residents as they try to achieve their goals using Ontario’s current and rapidly improving digital services.&lt;/p&gt;
+
+&lt;p&gt;As part of the lab launch, the Ontario Digital Service (ODS) team hosted an “office hours” event in Communitech’s Area 151. This team is led by Ontario’s very first Chief Digital Officer, Hillary Hartley. I won’t try to do justice to &lt;a href=&quot;https://medium.com/u/958111e75c23?source=post_page---user_mention--f47b948ff908---------------------------------------&quot;&gt;Hillary Hartley&lt;/a&gt; ’s track record here, but she was a 2013 Presidential Innovation Fellow, under the Obama administration, and one of the co-founders of &lt;a href=&quot;https://18f.gsa.gov/&quot;&gt;18F&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/v2/resize:fit:2000/1*K7PJdhAt2SXdyf9-gvZvWQ.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;sup&gt;
+Sebastian _Prins (Office of the Hon. Liz Sandals, MPP) speaking with Hillary Hartley, Chief Digital Officer for Ontario. Photo by Jonathan Tonge.
+&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;The ODS team has already launched several projects, even before starting this focused user research lab. For example, at &lt;a href=&quot;http://ontario.ca/osap&quot;&gt;ontario.ca/osap&lt;/a&gt;, prospective and existing students can quickly and easily learn about their options for tuition assistance programs. Even more recently, launched on August 10, &lt;a href=&quot;http://ontario.ca/waittimes&quot;&gt;ontario.ca/waittimes&lt;/a&gt; and &lt;a href=&quot;http://ontario.ca/health&quot;&gt;ontario.ca/health&lt;/a&gt; now provide valuable, easy to navigate, and timely information about medical services in the province.&lt;/p&gt;
+
+&lt;p&gt;The open house event was successful in launching the ODS initiatives and space within the community and laid the groundwork for the creation of a network of like minded individuals passionate about civic technology. Within this region alone there are several groups and initiatives — from Digital Kitchener and their Innovation Activator Lab to &lt;a href=&quot;http://www.tritag.ca/&quot;&gt;TriTAG&lt;/a&gt; and some of the initiatives by &lt;a href=&quot;http://hivewr.ca/2017/07/24/gentrification-study/&quot;&gt;HiveWR&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/v2/resize:fit:1400/1*rJRWrVldknQISDiADfYbSw.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;sup&gt;
+FailBetter flowchart on the lab wall. Photo by Jonathan Tonge.
+&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;One such group looking to be a hub and catalyst in the region is the nascent (stay tuned!) &lt;a href=&quot;http://civte.ch/&quot;&gt;Waterloo Region Civic Tech&lt;/a&gt; (CTWR) team. A few of the co-founders of the group attended the open house to see the new lab and meet some of the people innovating within the various levels of our government.&lt;/p&gt;
+
+&lt;p&gt;One particular feature of the ODS space, the #FailBetter flowchart on the wall of the lab, resonated with the CTWR team as it really embraces the spirit of what they’re working towards.&lt;/p&gt;
+
+&lt;p&gt;The CTWR mission is to connect citizens, civic innovators, technologists, community groups, governments, and entrepreneurs with civic tech initiatives. They strive to empower this diverse group to work together, exchange ideas and tools to improve the lives of the residents in and around Waterloo Region through the invention, innovation and evolution of technology.&lt;/p&gt;
+
+&lt;p&gt;To reach that goal, over the coming months, the group is going to be trying a few things, seeing what works, probably failing, and trying something different. According to its founders, like everything in life, it is a work-in-progress. You can find more information on the team and the vision at &lt;a href=&quot;http://civte.ch/&quot;&gt;http://civte.ch&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Both ODS and CTWR, in addition to other similar initiatives across the city, region, province and country, are excellent examples of how government and ordinary citizens are joining forces to solve real world challenges in civic technology.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Do you have a message you’d like to share with a group of technology- and civic-minded Waterloo Region citizens? Do you have a space you can offer for an evening to host a speaker and a working session? We’d love to hear from you! The easiest ways to connect are to reach out at &lt;a href=&quot;mailto:hello@civte.ch&quot;&gt;hello@civte.ch&lt;/a&gt; or find us on &lt;a href=&quot;https://civictechwrslack.herokuapp.com/&quot;&gt;Slack&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/civictechwr&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Aug 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/blog/Ontario-Digital-Service-Lab-Launch/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Ontario-Digital-Service-Lab-Launch/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

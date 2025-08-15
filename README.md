@@ -1,5 +1,8 @@
-# Memoirs Jekyll Theme
+# To start the development server with live reload
+bundle exec jekyll serve --livereload
 
-[Live Demo](https://wowthemesnet.github.io/jekyll-theme-memoirs/) | [Docs & Download](https://bootstrapstarter.com/jekyll-theme-memoirs/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
+# To start without live reload
+bundle exec jekyll serve
 
-![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
+# To build the site (generates _site folder)
+bundle exec jekyll build

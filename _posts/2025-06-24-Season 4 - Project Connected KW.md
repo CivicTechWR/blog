@@ -5,12 +5,13 @@ date: 2025-06-24
 comments: false
 author: apurvakb
 image: /assets/images/ConnectedKW.png
+toc: true
+beforetoc: ""
 ---
 Connected KW is a volunteer-run project with the goal of creating an inclusive and comprehensive resource for families in Waterloo Region. You can get involved by [creating an account](https://cms.connectedkw.com/admin/register) and helping us to add events and info for other families!
 
-![](/assets/images/ConnectedKW.png)
+![](/blog/assets/images/ConnectedKW.png)
 
-<!-- more -->
 ## What was the Problem?
 At the core, it’s about helping people connect with their community in meaningful ways. I think a lot of us—myself included, and others at Civic Tech—want to get involved locally, but it’s not always clear how to start. Some people look to events as a way to engage, while others are interested in volunteering. But in both cases, the path to connection can feel scattered or hard to navigate.
 
@@ -26,7 +27,7 @@ Shay:
 ## People Involved 
 The team of volunteers behind ConnectedKW has been absolutely amazing. They come from diverse backgrounds and varying levels of technical expertise, yet everyone has found meaningful ways to contribute. Some have focused on the technical side—developing features, adding to the website, even learning JavaScript, React, or our backend platform as they went. Others have supported outreach efforts, connected with local organizations, conducted user research, helped with testing, and contributed to the website’s copy and content. 
 
-![](/assets/images/IMG_2206.jpeg)
+![](/blog/assets/images/IMG_2206.jpeg)
 
 It’s been incredible to see how each volunteer brings their unique skills and capacity to the project, making it a true collaborative effort.
 

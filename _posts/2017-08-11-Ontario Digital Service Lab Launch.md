@@ -7,8 +7,9 @@ author: kristinataylor
 image: https://miro.medium.com/v2/resize:fit:10944/1*3kunHbs4Gbol83L-2STo5Q.jpeg
 links:
   - Cross posted from our Medium Account: https://medium.com/civictechwr/ontario-digital-service-lab-launch-f47b948ff908
+toc: true
+beforetoc: ""
 ---
-
 # Ontario Digital Service Lab Launch
 
 The Ontario Digital Service team opened a [new user research lab](http://news.communitech.ca/news/ontario-government-launches-lab-at-communitech-to-transform-digital-services/) in the Back Alley at Communitech on August 9. The lab’s mandate is to transform the digital services offered by the Government of Ontario. It might sound lofty and vague but, with the right tools and expertise in place, meaningful change is absolutely achievable.
