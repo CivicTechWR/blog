@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Season 4 - Project Midtown Radio
 comments: false
 date: 2025-06-24

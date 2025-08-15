@@ -1,5 +1,7 @@
 ---
+layout: post
 title: CivicTechWR meets House of Friendship
+comments: false
 date: 2017-10-26
 author: kristinataylor
 image: https://miro.medium.com/v2/resize:fit:2000/1*tEERyRrkLyWUqG1hmcVnlQ.jpeg

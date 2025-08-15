@@ -1,5 +1,7 @@
 ---
+layout: post
 title: In the news - CBC - Oct 20, 2018
+comments: false
 date: 2018-10-20
 image: /assets/images/Cbc_article.png
 ---

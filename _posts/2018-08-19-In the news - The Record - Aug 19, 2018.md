@@ -1,5 +1,7 @@
 ---
+layout: post
 title: In the news - The Record - Aug 19, 2018
+comments: false
 date: 2018-08-19
 image: /assets/images/TheRecord.png
 ---

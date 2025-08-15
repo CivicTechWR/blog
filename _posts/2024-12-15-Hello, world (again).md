@@ -1,7 +1,9 @@
 ---
+layout: post
 title: Hello, world! (Again) 👋👋
 date: 2024-12-15
 author: foudamo
+comments: false
 ---
 Restarting our blog!
 

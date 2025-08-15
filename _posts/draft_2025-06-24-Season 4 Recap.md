@@ -1,7 +1,9 @@
 ---
+layout: post
 title: Season 4 Projects
 date: 2025-06-24
 author: foudamo
+comments: false
 ---
 Summary 
 

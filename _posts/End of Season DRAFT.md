@@ -1,8 +1,10 @@
 ---
+layout: post
 title: Season DRAFT 
 draft: true
 date: 2025-06-24
 author: foudamo
+comments: false
 ---
 Summary 
 

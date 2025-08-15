@@ -1,5 +1,7 @@
 ---
+layout: post
 title: In the news - Waterloo Chronicle - Oct 03, 2018
+comments: false
 date: 2018-10-03
 image: /assets/images/WaterlooChronicle.png
 ---

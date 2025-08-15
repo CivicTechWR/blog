@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Season 4 - Project Connected KW
 date: 2025-06-24
+comments: false
 author: apurvakb
 image: /assets/images/ConnectedKW.png
 ---
