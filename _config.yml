@@ -1,7 +1,7 @@
 # Site
-name: "CTWR Blog"
-title: "CTWR Blog"
-description: "Welcome to CivicTech Waterloo Region Blog"
+name: "CivicTech Waterloo Region Blog"
+title: "CivicTech Waterloo Region Blog"
+description: "CivicTech Waterloo Region Blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 url: https://civictechwr.github.io
@@ -15,18 +15,26 @@ email: civictechwr@gmail.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/avatar-sal.png'
+  Mohamed Fouda:
+    name: Mohamed Fouda
+    display_name: Mohamed Fouda
+    avatar: 'assets/images/mohamed-fouda.png'
     email: civictechwr@gmail.com
-    web: https://www.civictechwr.org/donate/
+    web: https://www.civictechwr.org/
+    twitter: https://twitter.com/civictechwr
+    description: "Author of CivicTech Waterloo Region Blog"
+  Apurva Bhatia:
+    name: Apurva Bhatia
+    display_name: Apurva Bhatia    
+    avatar: 'assets/images/apurva-bhatia.png'
+    email: civictechwr@gmail.com
+    web: https://www.civictechwr.org
     twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
+    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+  Kristina:
+    name: Kristina
+    display_name: Kristina    
+    avatar: 'assets/images/kristina.png'
     email: civictechwr@gmail.com
     web: https://www.civictechwr.org
     twitter: https://twitter.com/wowthemesnet
