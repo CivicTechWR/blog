@@ -5,11 +5,11 @@ comments: false
 date: 2017-10-26
 author: kristinataylor
 image: https://miro.medium.com/v2/resize:fit:2000/1*tEERyRrkLyWUqG1hmcVnlQ.jpeg
-links:
-- Cross posted from our Medium Account: https://medium.com/civictechwr/civictechwr-meets-house-of-friendship-ade25aad0414
 toc: true
 beforetoc: ""
 ---
+Cross posted from our Medium Account: https://medium.com/civictechwr/civictechwr-meets-house-of-friendship-ade25aad0414
+
 # CivicTechWR meets House of Friendship
 
 ![](https://miro.medium.com/v2/resize:fit:2000/1*tEERyRrkLyWUqG1hmcVnlQ.jpeg)

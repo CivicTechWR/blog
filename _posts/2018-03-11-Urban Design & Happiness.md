@@ -5,11 +5,11 @@ comments: false
 date: 2018-03-11
 author: kristinataylor
 image: https://miro.medium.com/v2/resize:fit:1400/1*Jy4LrHRyLDnyEA6OpbR6eA.jpeg
-links:
-- Cross posted from our Medium Account: https://medium.com/civictechwr/urban-design-happiness-e177132b0a47
 toc: true
 beforetoc: ""
 ---
+Cross posted from our Medium Account: https://medium.com/civictechwr/urban-design-happiness-e177132b0a47
+
 # Urban Design & Happiness
 
 While I feel like saying this about every guest speaker we’ve hosted, for [CivicTech WR](https://medium.com/u/e2a08d065cd3?source=post_page---user_mention--e177132b0a47---------------------------------------)’s February event, we had a special treat. [Robin Mazumder](https://robinmazumder.com/)shared his story with us, and I think it’s safe to say that we all learned a lot about how the design of our cities can impact our health and well-being.

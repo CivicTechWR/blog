@@ -5,8 +5,8 @@
     <description>CivicTech Waterloo Region Blog</description>
     <link>http://localhost:4000/blog/</link>
     <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Aug 2025 17:44:16 -0400</pubDate>
-    <lastBuildDate>Fri, 15 Aug 2025 17:44:16 -0400</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 18:00:30 -0400</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 18:00:30 -0400</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
@@ -87,6 +87,8 @@
         <guid isPermaLink="true">http://localhost:4000/blog/Season-4-Project-Midtown-Radio/</guid>
         
         
+        <category>Season 4</category>
+        
       </item>
     
       <item>
@@ -165,6 +167,8 @@ What’s been most impressive is how committed people are—not just to showing 
         <guid isPermaLink="true">http://localhost:4000/blog/Season-4-Project-Connected-KW/</guid>
         
         
+        <category>Season 4</category>
+        
       </item>
     
       <item>
@@ -198,6 +202,8 @@ What’s been most impressive is how committed people are—not just to showing 
         <guid isPermaLink="true">http://localhost:4000/blog/In-the-news-CBC-Oct-20,-2018/</guid>
         
         
+        <category>CTWR Projects in the News</category>
+        
       </item>
     
       <item>
@@ -208,6 +214,8 @@ What’s been most impressive is how committed people are—not just to showing 
         <link>http://localhost:4000/blog/In-the-news-Waterloo-Chronicle-Oct-03,-2018/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/In-the-news-Waterloo-Chronicle-Oct-03,-2018/</guid>
         
+        
+        <category>CTWR Projects in the News</category>
         
       </item>
     
@@ -220,11 +228,15 @@ What’s been most impressive is how committed people are—not just to showing 
         <guid isPermaLink="true">http://localhost:4000/blog/In-the-news-The-Record-Aug-19,-2018/</guid>
         
         
+        <category>CTWR Projects in the News</category>
+        
       </item>
     
       <item>
         <title>Urban Design &amp; Happiness</title>
-        <description>&lt;h1 id=&quot;urban-design--happiness&quot;&gt;Urban Design &amp;amp; Happiness&lt;/h1&gt;
+        <description>&lt;p&gt;Cross posted from our Medium Account: https://medium.com/civictechwr/urban-design-happiness-e177132b0a47&lt;/p&gt;
+
+&lt;h1 id=&quot;urban-design--happiness&quot;&gt;Urban Design &amp;amp; Happiness&lt;/h1&gt;
 
 &lt;p&gt;While I feel like saying this about every guest speaker we’ve hosted, for &lt;a href=&quot;https://medium.com/u/e2a08d065cd3?source=post_page---user_mention--e177132b0a47---------------------------------------&quot;&gt;CivicTech WR&lt;/a&gt;’s February event, we had a special treat. &lt;a href=&quot;https://robinmazumder.com/&quot;&gt;Robin Mazumder&lt;/a&gt;shared his story with us, and I think it’s safe to say that we all learned a lot about how the design of our cities can impact our health and well-being.&lt;/p&gt;
 
@@ -329,7 +341,9 @@ In what ways do city planners empathize with their users?
     
       <item>
         <title>CivicTechWR meets House of Friendship</title>
-        <description>&lt;h1 id=&quot;civictechwr-meets-house-of-friendship&quot;&gt;CivicTechWR meets House of Friendship&lt;/h1&gt;
+        <description>&lt;p&gt;Cross posted from our Medium Account: https://medium.com/civictechwr/civictechwr-meets-house-of-friendship-ade25aad0414&lt;/p&gt;
+
+&lt;h1 id=&quot;civictechwr-meets-house-of-friendship&quot;&gt;CivicTechWR meets House of Friendship&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://miro.medium.com/v2/resize:fit:2000/1*tEERyRrkLyWUqG1hmcVnlQ.jpeg&quot; alt=&quot;&quot; /&gt;
 &lt;sup&gt;
@@ -429,7 +443,9 @@ John Neufeld, Executive Director, House of Friendship
     
       <item>
         <title>Ontario Digital Service Lab Launch</title>
-        <description>&lt;h1 id=&quot;ontario-digital-service-lab-launch&quot;&gt;Ontario Digital Service Lab Launch&lt;/h1&gt;
+        <description>&lt;p&gt;Cross posted from our Medium Account: https://medium.com/civictechwr/ontario-digital-service-lab-launch-f47b948ff908&lt;/p&gt;
+
+&lt;h1 id=&quot;ontario-digital-service-lab-launch&quot;&gt;Ontario Digital Service Lab Launch&lt;/h1&gt;
 
 &lt;p&gt;The Ontario Digital Service team opened a &lt;a href=&quot;http://news.communitech.ca/news/ontario-government-launches-lab-at-communitech-to-transform-digital-services/&quot;&gt;new user research lab&lt;/a&gt; in the Back Alley at Communitech on August 9. The lab’s mandate is to transform the digital services offered by the Government of Ontario. It might sound lofty and vague but, with the right tools and expertise in place, meaningful change is absolutely achievable.&lt;/p&gt;
 
