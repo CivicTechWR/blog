@@ -2,7 +2,7 @@
 title: Season 4 - Project Connected KW
 draft: false
 date: 2025-06-24
-authors:
+author:
   - apurvakb
   - foudamo
 image: /assets/images/ConnectedKW.png

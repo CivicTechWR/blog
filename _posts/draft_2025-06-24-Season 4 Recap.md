@@ -2,7 +2,7 @@
 title: Season 4 Projects
 draft: true
 date: 2025-06-24
-authors:
+author:
   - apurvakb
   - foudamo
 links:

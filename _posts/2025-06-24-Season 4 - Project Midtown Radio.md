@@ -2,7 +2,7 @@
 title: Season 4 - Project Midtown Radio
 draft: false
 date: 2025-06-24
-authors:
+author:
   - foudamo
   - apurvakb
 image: /assets/images/IMG_2207.jpeg

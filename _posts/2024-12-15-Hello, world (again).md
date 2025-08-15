@@ -2,8 +2,7 @@
 title: Hello, world! (Again) 👋👋
 draft: false
 date: 2024-12-15
-authors:
-  - foudamo
+author: foudamo
 links:
 ---
 Restarting our blog!

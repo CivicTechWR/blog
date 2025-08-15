@@ -2,8 +2,7 @@
 title: Ontario Digital Service Lab Launch
 draft: false
 date: 2017-08-11
-authors:
-    - kristinataylor
+author: kristinataylor
 image: https://miro.medium.com/v2/resize:fit:10944/1*3kunHbs4Gbol83L-2STo5Q.jpeg
 links:
   - Cross posted from our Medium Account: https://medium.com/civictechwr/ontario-digital-service-lab-launch-f47b948ff908
