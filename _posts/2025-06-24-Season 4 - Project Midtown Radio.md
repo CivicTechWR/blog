@@ -2,7 +2,7 @@
 title: Season 4 - Project Midtown Radio
 draft: false
 date: 2025-06-24
-author: foudamo, apurvakb
+author: foudamo
 image: /assets/images/IMG_2207.jpeg
 ---
 MidTown Radio mobile App was created which provides access to their live stream, podcasts, and artist directory in the Waterloo Region. This app gives [MidTown Radio](https://www.midtownradio.ca/) another way to reach audience and showcase art in the community. The [CBC Listen App](https://www.cbc.ca/listen/live-radio) is an example of what they inspired for.  

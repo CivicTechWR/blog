@@ -2,7 +2,6 @@
 title: Hello, world! (Again) 👋👋
 date: 2024-12-15
 author: foudamo
-links:
 ---
 Restarting our blog!
 

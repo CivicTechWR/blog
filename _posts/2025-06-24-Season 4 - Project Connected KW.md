@@ -1,7 +1,7 @@
 ---
 title: Season 4 - Project Connected KW
 date: 2025-06-24
-author: apurvakb, foudamo
+author: apurvakb
 image: /assets/images/ConnectedKW.png
 ---
 Connected KW is a volunteer-run project with the goal of creating an inclusive and comprehensive resource for families in Waterloo Region. You can get involved by [creating an account](https://cms.connectedkw.com/admin/register) and helping us to add events and info for other families!
