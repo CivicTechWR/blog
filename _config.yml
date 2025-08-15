@@ -15,30 +15,30 @@ email: civictechwr@gmail.com
 
 # Authors
 authors:
-  Mohamed Fouda:
+  foudamo:
     name: Mohamed Fouda
     display_name: Mohamed Fouda
-    avatar: 'assets/images/mohamed-fouda.png'
+    avatar: 'https://avatars.githubusercontent.com/u/6817956?v=4'
     email: civictechwr@gmail.com
-    web: https://www.civictechwr.org/
+    web: https://github.com/foudamo
     twitter: https://twitter.com/civictechwr
-    description: "Author of CivicTech Waterloo Region Blog"
-  Apurva Bhatia:
-    name: Apurva Bhatia
-    display_name: Apurva Bhatia    
-    avatar: 'assets/images/apurva-bhatia.png'
+    description: "Product Manager"
+  apurvakb:
+    name: Apurv Banastarker
+    display_name: Apurv Banastarker    
+    avatar: 'https://avatars.githubusercontent.com/u/61383076?v=4'
     email: civictechwr@gmail.com
-    web: https://www.civictechwr.org
+    web: https://github.com/apurvakb
     twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
-  Kristina:
-    name: Kristina
-    display_name: Kristina    
-    avatar: 'assets/images/kristina.png'
+    description: "Digital Marketing"
+  kristinataylor:
+    name: Kristina Taylor
+    display_name: Kristina Taylor    
+    avatar: 'https://avatars.githubusercontent.com/u/10520385?v=4'
     email: civictechwr@gmail.com
-    web: https://www.civictechwr.org
+    web: https://www.linkedin.com/in/kristina-taylor-48273427/
     twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+    description: "Product Manager"
 
 # Plugins
 plugins:
