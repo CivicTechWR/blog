@@ -1,11 +1,7 @@
 ---
 title: Season 4 Projects
-draft: true
 date: 2025-06-24
-author:
-  - apurvakb
-  - foudamo
-links:
+author: foudamo
 ---
 Summary 
 

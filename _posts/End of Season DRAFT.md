@@ -2,9 +2,7 @@
 title: Season DRAFT 
 draft: true
 date: 2025-06-24
-author:
-  - foudamo
-links:
+author: foudamo
 ---
 Summary 
 

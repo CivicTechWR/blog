@@ -1,6 +1,5 @@
 ---
 title: Hello, world! (Again) 👋👋
-draft: false
 date: 2024-12-15
 author: foudamo
 links:

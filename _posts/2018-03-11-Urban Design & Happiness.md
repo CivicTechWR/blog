@@ -1,6 +1,5 @@
 ---
 title: Urban Design & Happiness
-draft: false
 date: 2018-03-11
 author: kristinataylor
 image: https://miro.medium.com/v2/resize:fit:1400/1*Jy4LrHRyLDnyEA6OpbR6eA.jpeg
