@@ -13,7 +13,7 @@ Civic tech ideas don’t fail for lack of enthusiasm—they fail when the commun
 
 ## Background info (for the unfamilar)
 
-Years ago a design agency called IDEO came up with a framework called DVF (Desirability, Viability, Feasibility) as a simple three-lens check — used in design thinking to judge whether an idea is worth pursuing. Desirability asks if real people actually want it and whether it solves a meaningful problem. Viability tests if the idea can be sustained (funding, partners, policy, long-term stewardship). Feasibility examines whether we can build and operate it with today’s technology and constraints. Teams apply DVF early and often to surface risks, compare options, and shape lean experiments; our re-work keeps the spirit but adapts it to civic-tech realities.
+Years ago a design agency called IDEO came up with a framework called DVF (Desirability, Viability, Feasibility) as a simple three-lens check — used in design thinking to judge whether an idea is worth pursuing. *Desirability* asks if real people actually want it and whether it solves a meaningful problem. *Viability* tests if the idea can be sustained (funding, partners, policy, long-term stewardship). *Feasibility* examines whether we can build and operate it with today’s technology and constraints. Teams apply DVF early and often to surface risks, compare options, and shape lean experiments; our re-work keeps the spirit but adapts it to civic-tech realities.
 
 ## The four lenses we actually need
 
