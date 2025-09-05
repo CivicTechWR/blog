@@ -11,7 +11,13 @@ tags: []
 ---
 Civic tech ideas don’t fail for lack of enthusiasm—they fail when the community and the team can’t reliably show up. That’s why we re-worked IDEO’s classic DVF lens into a lightweight **20-point scorecard** built for CivicTechWR projects, where the “product” is often a public good and the fuel is volunteers. The goal: help teams decide **what to back, how much to back it, and what to learn next**—fast.
 
+## Background info (for the unfamilar)
+
+Years ago a design agency called IDEO came up with a framework called DVF (Desirability, Viability, Feasibility) as a simple three-lens check — used in design thinking to judge whether an idea is worth pursuing. Desirability asks if real people actually want it and whether it solves a meaningful problem. Viability tests if the idea can be sustained (funding, partners, policy, long-term stewardship). Feasibility examines whether we can build and operate it with today’s technology and constraints. Teams apply DVF early and often to surface risks, compare options, and shape lean experiments; our re-work keeps the spirit but adapts it to civic-tech realities.
+
 ## The four lenses we actually need
+
+We adapted IDEO’s DVF into a four-lens rubric tailored to civic tech, putting people and public impact front and center. The lenses—Community Partner (consistent participation and value back to CTWR), Talent & Team Commitment (right skills, diversity, and weekly cadence), Technically Exciting (real maker energy), and Civic Exciting (a compelling public-interest story with visible impact)—turn the classic triad into an actionable 20-point scorecard.
 
 Score each 1–5:
 
