@@ -5,12 +5,10 @@ date: 2025-07-01
 author: foudamo
 image: /assets/images/DVF_0.png
 toc: true
-beforetoc: "Civic tech ideas don’t fail for lack of enthusiasm—they fail when the community and the team can’t reliably show up. That’s why we re-worked IDEO’s classic DVF lens into a lightweight **20-point scorecard** built for CivicTechWR projects, where the “product” is often a public good and the fuel is volunteers. The goal: help teams decide **what to back, how much to back it, and what to learn next**—fast."
+beforetoc: ""
 categories: [Season 4]
 tags: []
 ---
-# Re-working IDEO’s DVF for Civic Tech
-
 Civic tech ideas don’t fail for lack of enthusiasm—they fail when the community and the team can’t reliably show up. That’s why we re-worked IDEO’s classic DVF lens into a lightweight **20-point scorecard** built for CivicTechWR projects, where the “product” is often a public good and the fuel is volunteers. The goal: help teams decide **what to back, how much to back it, and what to learn next**—fast.
 
 ## The four lenses we actually need
