@@ -51,8 +51,8 @@ Not CTWR Supported:
 - Only if time permits, you can Demo on Week 12
 - Not going to regularly check in
 - Not committing community resources to this project right now.
-- ### But your idea still matters.
-- If you’re excited to keep working, we welcome you to continue developing it. This is an opportunity to reflect, refine, and grow your idea — and we’re here to support your learning along the way.
+- *But your idea still matters.*
+   - If you’re excited to keep working, we welcome you to continue developing it. This is an opportunity to reflect, refine, and grow your idea — and we’re here to support your learning along the way.
 
 ## Why tweak DVF at all?
 
