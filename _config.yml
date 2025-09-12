@@ -22,7 +22,7 @@ authors:
     email: civictechwr@gmail.com
     web: https://github.com/foudamo
     twitter: https://twitter.com/civictechwr
-    description: "Product Manager"
+    description: "Product Manager by day. Civictechwr Organizer by night"
   apurvakb:
     name: Apurva Banastarker
     display_name: Apurva Banastarker    
@@ -39,6 +39,14 @@ authors:
     web: https://www.linkedin.com/in/kristina-taylor-48273427/
     twitter: https://twitter.com/civictechwr
     description: "Product Manager"
+  dredre:
+    name: Andre Levesque 
+    display_name: Andre Levesque
+    avatar: 'https://avatars.githubusercontent.com/u/169505867?v=4'
+    email: civictechwr@gmail.com
+    web: https://github.com/BreakableHoodie
+    twitter: https://twitter.com/civictechwr
+    description: "IT veteran with 20+ years' experience in system administration and cybersecurity. AWS certified professional who loves problem-solving and tinkering."
 
 # Plugins
 plugins:
